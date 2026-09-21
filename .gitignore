@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+coverage/
+*.log
+*.bak
+*.bak-*
+.muse/
+.tmp/
+apps/
+vault/
+.gstack/
+.env
+.env.*
+!.env.example
+.test-results/
+.playwright-cli/
+output/playwright/
